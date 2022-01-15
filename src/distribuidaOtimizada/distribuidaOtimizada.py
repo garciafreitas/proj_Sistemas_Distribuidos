@@ -1,0 +1,1 @@
+#distribuída otimizada é RMI + thread
